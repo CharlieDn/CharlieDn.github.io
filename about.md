@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+こんにちは！チャーリーのブログへようこそ！
+Hey there! This is Charlie's blog. Hope you have fun!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+「だって、その方が断然面白いじゃないの！」（涼宮ハルヒより）
+"Because that way, life's more interesting!" (From Haruhi Suzumiya)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[char1es_deng@outlook.com](mailto:char1es_deng@outlook.com)
