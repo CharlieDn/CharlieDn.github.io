@@ -5,11 +5,13 @@ permalink: /about/
 ---
 
 こんにちは！チャーリーのブログへようこそ！
+
 Hey there! This is Charlie's blog. Hope you have fun!
 
 ### More Information
 
 「だって、その方が断然面白いじゃないの！」（涼宮ハルヒより）
+
 "Because that way, life's more interesting!" (From Haruhi Suzumiya)
 
 ### Contact me
