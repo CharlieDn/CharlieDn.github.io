@@ -4,9 +4,11 @@ comments: true
 title: God Knows!
 ---
 
-I love Haruhi Suzumiya very much and I like this song!
+I love Haruhi Suzumiya very much and I like this song! And the English dub is just amazing!
 
 ![_config.yml]({{ site.baseurl }}/images/maxresdefault.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UnJ8cmaT3Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Blazing on by, there's nothing more that I can do.
 
