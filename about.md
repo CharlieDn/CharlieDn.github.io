@@ -8,7 +8,7 @@ permalink: /about/
 
 Hey there! This is Charlie's blog. Hope you have fun!
 
-### More Information
+### More
 
 「だって、その方が断然面白いじゃないの！」（涼宮ハルヒより）
 
