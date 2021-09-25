@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: God Knows!
 ---
 
@@ -132,9 +133,6 @@ Eternally God Bless.
 
 
 
-layout: default
-comments: true
-# other options
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
