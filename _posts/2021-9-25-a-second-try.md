@@ -8,9 +8,17 @@ I am just trying to make sure that I am able to post another one hahaha
 
 ![megumi](https://raw.githubusercontent.com/CharlieDn/CharlieDn.github.io/master/images/megumi.jpg)
 
-Katou Megumi is so Kawaii!{% endhighlight %}
+Katou Megumi is so Kawaii! 
 
-
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
 
 
 
