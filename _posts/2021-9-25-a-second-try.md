@@ -8,6 +8,8 @@ I am just trying to make sure that I am able to post another one hahaha
 
 ![megumi](https://raw.githubusercontent.com/CharlieDn/CharlieDn.github.io/master/images/megumi.jpg)
 
+Katou Megumi is so Kawaii!{% endhighlight %}
+
 
 
 
@@ -20,7 +22,7 @@ I am just trying to make sure that I am able to post another one hahaha
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = https://charliedn.github.io/Hello-World/;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.url = https://charliedn.github.io/a-second-try/;  // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = CharlieDn; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     */
