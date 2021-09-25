@@ -4,11 +4,11 @@ comments: true
 title: A second try
 ---
 
-I am just trying to make sure that I am able to post another one hahaha
+Katou Megumi is so Kawaii! 
 
 ![megumi](https://raw.githubusercontent.com/CharlieDn/CharlieDn.github.io/master/images/megumi.jpg)
 
-Katou Megumi is so Kawaii! 
+I am just trying to make sure that I am able to upload another post hahaha
 
 
 
