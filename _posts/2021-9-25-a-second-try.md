@@ -10,15 +10,7 @@ I am just trying to make sure that I am able to post another one hahaha
 
 Katou Megumi is so Kawaii! 
 
-{% highlight ruby %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
+
 
 
 
