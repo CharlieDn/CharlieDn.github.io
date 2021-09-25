@@ -10,6 +10,7 @@ I love Haruhi Suzumiya very much and I like this song! And the English dub is ju
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UnJ8cmaT3Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 Blazing on by, there's nothing more that I can do.
 
 渇いた心で駆け抜ける
